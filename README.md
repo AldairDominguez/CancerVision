@@ -1,5 +1,7 @@
 # CancerVision ✨🏥
 
+![Carga de Imágenes](https://github.com/AldairDominguez/CancerVision/blob/main/imgD/carga.png?raw=true)
+
 CancerVision es una herramienta de análisis de imágenes basada en inteligencia artificial para detectar similitudes en imágenes médicas y ayudar en la identificación temprana de cáncer. Utiliza redes neuronales y técnicas avanzadas de procesamiento de imágenes para proporcionar un análisis preciso y eficiente.
 
 ## 📑 Tabla de Contenidos
