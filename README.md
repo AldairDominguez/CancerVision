@@ -3,14 +3,14 @@
 CancerVision es una herramienta de análisis de imágenes basada en inteligencia artificial para detectar similitudes en imágenes médicas y ayudar en la identificación temprana de cáncer. Utiliza redes neuronales y técnicas avanzadas de procesamiento de imágenes para proporcionar un análisis preciso y eficiente.
 
 ## 🗃️ Tabla de Contenidos
-- [❓ Descripción General](#descripción-general)
-- [🛠️ Características](#características)
-- [📊 Requisitos Previos](#requisitos-previos)
-- [💻 Instalación](#instalación)
-- [🔧 Uso](#uso)
-- [📁 Estructura del Proyecto](#estructura-del-proyecto)
-- [🤖 Contribuir](#contribuir)
-- [✉️ Licencia](#licencia)
+- [❓ Descripción General](#Descripción-General)
+- [🛠️ Características](#Características)
+- [📊 Requisitos Previos](#Requisitos-Previos)
+- [💻 Instalación](#Instalación)
+- [🔧 Uso](#Uso)
+- [📁 Estructura del Proyecto](#Estructura-del-Proyecto)
+- [🤖 Contribuir](#Contribuir)
+- [✉️ Licencia](#Licencia)
 
 ## ❓ Descripción General
 
@@ -42,7 +42,7 @@ CancerVision analiza imágenes médicas para identificar patrones que podrían i
    - En Windows:
      ```bash
      python -m venv myenv
-     myenv\Scriptsctivate
+     myenv\Scripts\activate
      ```
 4. 🐍 Instala las dependencias:
    ```bash
@@ -90,4 +90,4 @@ CancerVision/
 
 ## ✉️ Licencia
 
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
+Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
