@@ -2,15 +2,15 @@
 
 CancerVision es una herramienta de análisis de imágenes basada en inteligencia artificial para detectar similitudes en imágenes médicas y ayudar en la identificación temprana de cáncer. Utiliza redes neuronales y técnicas avanzadas de procesamiento de imágenes para proporcionar un análisis preciso y eficiente.
 
-## 🗃️ Tabla de Contenidos
-- [❓ Descripción General](#Descripción-General)
-- [🛠️ Características](#Características)
-- [📊 Requisitos Previos](#Requisitos-Previos)
-- [💻 Instalación](#Instalación)
-- [🔧 Uso](#Uso)
-- [📁 Estructura del Proyecto](#Estructura-del-Proyecto)
-- [🤖 Contribuir](#Contribuir)
-- [✉️ Licencia](#Licencia)
+## 📑 Tabla de Contenidos
+- [❓ Descripción General](#descripción-general)
+- [⚙️ Características](#características)
+- [📊 Requisitos Previos](#requisitos-previos)
+- [💻 Instalación](#instalación)
+- [🧰 Uso](#uso)
+- [📁 Estructura del Proyecto](#estructura-del-proyecto)
+- [🤝 Contribuir](#contribuir)
+- [📜 Licencia](#licencia)
 
 ## ❓ Descripción General
 
@@ -63,8 +63,7 @@ CancerVision/
 ├── img/                # Imágenes de entrada para el análisis
 ├── myenv/              # Entorno virtual (no incluido en Git)
 ├── Análisis.py         # Script principal para análisis de imágenes
-├── app.py              # Interfaz principal del programa
-├── bot2.py             # Código del bot interactivo
+├── Login.py              # Interfaz principal del programa
 ├── requirements.txt    # Lista de dependencias
 └── README.md           # Este archivo
 ```
