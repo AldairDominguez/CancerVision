@@ -4,7 +4,7 @@ CancerVision es una herramienta de análisis de imágenes basada en inteligencia
 
 ## 📑 Tabla de Contenidos
 - [❓ Descripción General](#descripción-general)
-- [⚙️ Características](#características)
+- [🛠️ Características](#características)
 - [📊 Requisitos Previos](#requisitos-previos)
 - [💻 Instalación](#instalación)
 - [🧰 Uso](#uso)
@@ -49,7 +49,7 @@ CancerVision analiza imágenes médicas para identificar patrones que podrían i
    pip install -r requirements.txt
    ```
 
-## 🔧 Uso
+## 🧰 Uso
 
 Para ejecutar el programa, usa los siguientes comandos:
 ```bash
@@ -68,7 +68,7 @@ CancerVision/
 └── README.md           # Este archivo
 ```
 
-## 🤖 Contribuir
+## 🤝 Contribuir
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto o añadir nuevas funcionalidades, sigue estos pasos:
 
